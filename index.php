@@ -27,7 +27,8 @@
 <div class='fullscreenDiv'>
     <div class="center"><center>SATNAV Website
 coming soon...<br />
-<a href="https://www.facebook.com/SatnavMagazine">Facebook</a> <a href="https://twitter.com/satnavmag">Twitter</a> <a href="https://plus.google.com/113430861538777394105" rel="publisher">Google+</a></center>
+<a href="https://www.facebook.com/SatnavMagazine">Facebook</a> <a href="https://twitter.com/satnavmag">Twitter</a> <a href="https://plus.google.com/113430861538777394105" rel="publisher">Google+</a></center><br />
+(this is a beta website)
 </div>
 </div>
 </body>
